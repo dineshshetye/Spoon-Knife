@@ -1,1 +1,2 @@
 Adding foo
+Adding bar
