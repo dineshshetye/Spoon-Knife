@@ -1,2 +1,3 @@
 Adding foo
 Adding bar
+test sourcetree. First commit.
