@@ -1,3 +1,4 @@
 Adding foo.
-SVN uses a single central repository to serve as the communication hub for developers, and collaboration takes place by passing changesets between the developers’ working copies and the central repository.
 Adding top.
+Adding bar.
+SVN uses a single central repository to serve as the communication hub for developers, and collaboration takes place by passing changesets between the developers’ working copies and the central repository.
