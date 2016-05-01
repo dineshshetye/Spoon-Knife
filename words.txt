@@ -1,4 +1,1 @@
-Adding foo
-Adding bar
-Adding top.
-Adding xyz.
+Adding foo.
